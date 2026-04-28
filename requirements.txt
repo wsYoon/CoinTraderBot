@@ -1,0 +1,9 @@
+python-dotenv
+openai
+pyupbit
+ta
+selenium
+webdriver-manager
+requests
+youtube-transcript-api
+youtube-transcript-api
